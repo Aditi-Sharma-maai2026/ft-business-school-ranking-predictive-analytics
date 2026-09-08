@@ -1,8 +1,7 @@
 # Predictive Analytics Modelling: A Case Study of the Financial Times European Business Schools Ranking
 
 **Python implementation accompanying the ESMT Master's Thesis, Berlin, 2026**
-Arshia Gupta and Aditi Sharma
-Advisors: Prof. Harald Hungenberg, Margarita Kriger
+Aditi Sharma
 
 
 ## Overview
@@ -185,7 +184,7 @@ the forecast â€” the notebook is designed to be re-run annually, not used o
 
 ## Acknowledgements
 
-Supervised by Prof. Harald Hungenberg and Margarita Kriger, ESMT Berlin. Built on FT
+Supervised by ESMT Berlin. Built on FT
 embargoed ranking data and ESMT's internal reconstruction models, provided for academic
 use with ESMT Berlin's clearance. AI-assisted tools (Claude, ChatGPT, Copilot) supported
 brainstorming, coding, debugging, and language refinement during development; all

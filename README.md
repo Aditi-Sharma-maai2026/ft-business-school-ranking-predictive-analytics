@@ -1,6 +1,7 @@
 # Predictive Analytics Modelling: A Case Study of the Financial Times European Business Schools Ranking
 
 **Python implementation accompanying the ESMT Master's Thesis, Berlin, 2026**
+
 Aditi Sharma
 
 

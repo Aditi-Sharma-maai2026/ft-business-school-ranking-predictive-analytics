@@ -1,6 +1,6 @@
 # Predictive Analytics Modelling: A Case Study of the Financial Times European Business Schools Ranking
 
-**Python implementation accompanying the ESMT Master's Thesis Â· Berlin, 2026**
+**Python implementation accompanying the ESMT Master's Thesis, Berlin, 2026**
 Arshia Gupta and Aditi Sharma
 Advisors: Prof. Harald Hungenberg, Margarita Kriger
 

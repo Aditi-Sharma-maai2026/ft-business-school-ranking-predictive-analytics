@@ -35,11 +35,9 @@ The analysis used three types of source data:
 
 ```bash
 pip install -r requirements.txt
-python make_synthetic_data.py   # only if you do not have the real data
+python make_synthetic_data.py   # as real data in not included
 python run_all.py
 ```
-
-With the real data, place the Excel files in `data/` and adjust `config.py` to match their file names, sheet names and column positions. With synthetic data the code runs end to end, but the printed results are meaningless, and some summary text in stage 8 refers to the original thesis results.
 
 ## Variables
 
